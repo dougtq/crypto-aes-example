@@ -1,0 +1,8 @@
+{
+  "name": "crypto-aes-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dougtq/crypto-aes-example.git",
+  "author": "dougtq <douglas.expalves@gmail.com>",
+  "license": "MIT"
+}
